@@ -9,6 +9,8 @@ TinyWebDB System written in PHP, compatible with Apache
 2. `git clone https://github.com/Makeroid/TinyWebDB-PHP /var/www/html`
 3. `chown www-data:www-data /var/www/html/database.txt`
 
-OR
+<i>or</i>
 
-**Just download the ZIP file and upload to your hosting provider**
+1. Download repo as .zip
+2. Unzip the downloaded package
+3. Upload it to your hosting storage using FT
